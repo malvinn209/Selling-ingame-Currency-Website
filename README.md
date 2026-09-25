@@ -2,13 +2,13 @@
 
 A single-page demo storefront for topping up game currency — Roblox Robux, Mobile Legends Diamonds and Valorant Points. Built as a design and front-end sample, not a live store.
 
-**Live demo:** add your GitHub Pages link here once it's published, e.g. `https://YOURUSERNAME.github.io/gamevault-demo/`
+**Live demo:**`https://malvinn209.github.io/gamevault-demo/`
 
-## ⚠️ This is a demo
+⚠️ This is a demo
 
 - No real payments are taken and no game currency is delivered.
 - Order tracking is simulated and stored only in your own browser.
-- Not affiliated with Roblox, Moonton or Riot Games. Logos and artwork belong to their owners and are used here for demonstration only.
+- Not affiliated with Roblox, Moonton or Riot Games. Logos and artwork belong to their owners and are used here for demonstration/sample of the website only.
 
 ## Features
 
@@ -26,17 +26,6 @@ A single-page demo storefront for topping up game currency — Roblox Robux, Mob
 ## Tech
 
 Plain HTML, CSS and JavaScript in a single file — no build step, no dependencies, no framework. Everything runs client-side.
-
-## Run locally
-
-Download `index.html` and open it directly in a browser, or serve it with any static file server.
-
-## Deploy on GitHub Pages
-
-1. Push `index.html` to this repository.
-2. Go to **Settings → Pages**.
-3. Under "Build and deployment", set Source to **Deploy from a branch**, branch `main`, folder `/ (root)`.
-4. Save, wait a minute, then open the link shown at the top of the Pages settings page.
 
 ## Before using this for a real store
 
