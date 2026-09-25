@@ -2,7 +2,7 @@
 
 A single-page demo storefront for topping up game currency — Roblox Robux, Mobile Legends Diamonds and Valorant Points. Built as a design and front-end sample, not a live store.
 
-**Live demo:**`https://malvinn209.github.io/gamevault-demo/`
+**Live demo:**[`https://malvinn209.github.io/gamevault-demo/`](https://malvinn209.github.io/Selling-ingame-Currency-Website/)
 
 ⚠️ This is a demo
 
